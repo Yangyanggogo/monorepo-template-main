@@ -1,12 +1,18 @@
 # TODO Please edit the following information in your assignment
 
-- Name:
+- Name: Yang Chen
 - How many hours did it take you to complete this assignment?
+  course 1: 1 hour; course 2: 2h30.
+
 - Did you collaborate with any other students/TAs/Professors?
+  No
+
 - Did you use any external resources? (Cite them below)
-  - tbd
-  - tbd
+
+  - LinkedIn
+
 - (Optional) What was your favorite part of the assignment?
+  LinkedIn learning is a great resource!
 - (Optional) How would you improve the assignment?
 
 # Implementation Logistics
@@ -19,7 +25,7 @@
 See the folders [part1](./part1) for this assignment.
 
 # Rubric
- 
+
   <table>
   <tbody>
     <tr>
